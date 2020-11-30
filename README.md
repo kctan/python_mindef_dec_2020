@@ -2,10 +2,6 @@
 
 Course materials are contained in this repository
 
-
-## Python CET Share
-https://bit.ly/py-share
-
 ## Python (download version specific to your OS) 
 https://www.python.org/downloads/
 
