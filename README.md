@@ -1,7 +1,7 @@
 # Introductory Programming Using Python (Dec 2020)
 
 ## Laptop Password:
-userid: CETRAINGING
+userid: CETRAINING
 
 password: L3@rNce+2011
 
