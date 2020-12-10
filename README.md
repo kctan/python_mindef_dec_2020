@@ -5,7 +5,7 @@ userid: CETRAINGING
 
 password: L3@rNce+2011
 
-Course materials are contained in this repository
+## Course materials are contained in this repository
 
 ## Python (download version specific to your OS) 
 https://www.python.org/downloads/
