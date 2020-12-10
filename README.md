@@ -2,6 +2,7 @@
 
 ## Laptop Password:
 userid: CETRAINGING
+
 password: L3@rNce+2011
 
 Course materials are contained in this repository
