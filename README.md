@@ -1,5 +1,9 @@
 # Introductory Programming Using Python (Dec 2020)
 
+## Laptop Password:
+userid: CETRAINGING
+password: L3@rNce+2011
+
 Course materials are contained in this repository
 
 ## Python (download version specific to your OS) 
