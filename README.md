@@ -1,9 +1,8 @@
 # Introductory Programming Using Python (Dec 2020)
 
-## Laptop Password:
-userid: CETRAINING
-
-password: L3@rNce+2011
+## Additional Libraries required:
+for outlook, need to do "pip install pywin32"
+for selenium (whatsapp), need to do "pip install selenium", you may want to read up the documentation at https://selenium-python.readthedocs.io/ to know more about downloading the browser driver. 
 
 ## Course materials are contained in this repository
 
